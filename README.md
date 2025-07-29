@@ -4,7 +4,7 @@ Web Ecommers con Html y Css.
 
 ![](image/tiendaMueble.png)
 ![](image/tiendaMueble2.png)
-![](image/tiendaMueble4.png)
+![image](https://github.com/JEB76-22/Ecommers/blob/main/img/tiendaMuebles.PNG?raw=true)
 
 
 <h1>Javi&Coder</h1>
